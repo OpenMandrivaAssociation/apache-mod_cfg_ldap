@@ -6,7 +6,7 @@
 Summary:	Keeping apache VirtualHost configuration in a LDAP directory
 Name:		apache-%{mod_name}
 Version:	1.2
-Release:	%mkrel 15
+Release:	%mkrel 16
 Group:		System/Servers
 License:	BSD
 URL:		http://sourceforge.net/projects/modcfgldap/
