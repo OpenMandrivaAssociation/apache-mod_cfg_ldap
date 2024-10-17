@@ -9,7 +9,7 @@ Version:	1.2
 Release:	18
 Group:		System/Servers
 License:	BSD
-URL:		http://sourceforge.net/projects/modcfgldap/
+URL:		https://sourceforge.net/projects/modcfgldap/
 Source0: 	https://downloads.sourceforge.net/project/modcfgldap/mod_cfg_ldap/%{version}/mod_cfg_ldap-%{version}.tar.gz
 Source1:	%{mod_conf}.xz
 BuildRequires:	pkgconfig(ldap)
